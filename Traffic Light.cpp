@@ -18,6 +18,7 @@ main()
     outtextxy(midx, midy+10, "Press any key to start");
     getch();
     cleardevice();//clears the screen in graphics mode and sets the current position
+    // cleardevice();//clears the screen in graphics mode and sets the current position
 
     for( i = 0 ; i <= 420 ; i = i+10, j++ )
     {
