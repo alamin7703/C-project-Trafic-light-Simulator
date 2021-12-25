@@ -57,7 +57,7 @@ setcolor(WHITE);
             setcolor(BLUE);
 
             outtextxy(midx,midy-50,"STOP");
-            delay(1000);//1 second = 1000 milliseconds
+            delay(1000);//1 second = 1000 miliseconds
             graphdefaults();
             cleardevice();
             setcolor(WHITE);
